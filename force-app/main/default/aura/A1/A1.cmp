@@ -1,0 +1,5 @@
+<aura:component >
+	<h1>blue colour</h1>
+    <h2>black</h2>
+    <h3>brown</h3>
+</aura:component>
